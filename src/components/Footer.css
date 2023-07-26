@@ -1,0 +1,18 @@
+footer {
+  background-color: #c7f9cc;
+  padding: 20px;
+  text-align: center;
+}
+
+footer > div {
+  margin-bottom: 10px;
+}
+
+footer > div > a {
+  margin-right: 10px;
+  transition: transform 0.3s;
+}
+
+.animacion {
+  transform: scale(1.6);
+}

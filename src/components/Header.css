@@ -1,0 +1,27 @@
+header {
+  background-color: #c7f9cc;
+  padding: 10px;
+}
+
+h1 {
+  color: #333;
+  transition: color 0.3s;
+}
+
+h1:hover {
+  color: #d700db;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+ol {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  margin-bottom: 5px;
+}
